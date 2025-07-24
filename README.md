@@ -1,12 +1,7 @@
-# React + Vite
+# PÁGINA DE LOGIN UTILIZANDO REACT E TAILWIND CSS
 
-This template provides a minimal setup to get React working in Vite with HMR and some ESLint rules.
+  Foram utilizadas as seguintes tecnologias: (HTML, CSS, JavaScript, React e Tailwind)
 
-Currently, two official plugins are available:
+  A página de login conta com campos de preenchimento de dados e logo após a submissão do formulário, os dados são renderizados em lista logo a baixo do formulário.
 
-- [@vitejs/plugin-react](https://github.com/vitejs/vite-plugin-react/blob/main/packages/plugin-react) uses [Babel](https://babeljs.io/) for Fast Refresh
-- [@vitejs/plugin-react-swc](https://github.com/vitejs/vite-plugin-react/blob/main/packages/plugin-react-swc) uses [SWC](https://swc.rs/) for Fast Refresh
-
-## Expanding the ESLint configuration
-
-If you are developing a production application, we recommend using TypeScript with type-aware lint rules enabled. Check out the [TS template](https://github.com/vitejs/vite/tree/main/packages/create-vite/template-react-ts) for information on how to integrate TypeScript and [`typescript-eslint`](https://typescript-eslint.io) in your project.
+  A lista além de deter os dados dos usuários cadastrados, possui também a possibilidade de excluir um usuário pelo botão de lixeira localizado ao lado de cada objeto.
